@@ -1,4 +1,4 @@
-// Author Michael Win for Sean Davis' Class Fall 2015
+// Author Michael Win for Sean Davis' Class Spring 2016
 
 //A simulation of how a hard drive organizes its sectors efficiently given block ID's
 //The goal of this assignment was to convey an understanding of data structures by being given the freedom
